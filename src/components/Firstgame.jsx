@@ -3,7 +3,7 @@ const Firstgame = ({ toggle }) => {
     <div className="flex  min-h-screen justify-end">
       <div className="flex justify-items-center items-center max-w-[1180px] mx-auto py-8">
         <img
-          src="/images/dice.jpg"
+          src="images/dice.jpg"
           alt="Dice Game"
         />
         <div className="px-5">
